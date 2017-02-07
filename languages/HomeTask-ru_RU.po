@@ -1,0 +1,131 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: HomeTask\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2017-02-07 16:19+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Babych Roman <kartavyi2013@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/controllers/admin/menu/HomeTaskMainAdminMenuController.php:18
+#: includes/controllers/admin/menu/HomeTaskMainAdminMenuController.php:23
+#: includes/controllers/admin/menu/HomeTaskMainAdminSubMenuController.php:15
+#: includes/controllers/admin/menu/HomeTaskMainAdminSubMenuController.php:20
+msgctxt "admin menu page"
+msgid "HomeTask"
+msgstr ""
+
+#: includes/controllers/admin/menu/HomeTaskMainAdminMenuController.php:40
+msgid "Hello world"
+msgstr "Привет мир"
+
+#: includes/controllers/admin/menu/HomeTaskMainAdminSubMenuController.php:32
+msgid "Hello world sub menu"
+msgstr ""
+
+#: includes/controllers/admin/menu/HomeTaskMyCommentsMenuController.php:12
+#: includes/controllers/admin/menu/HomeTaskMyCommentsMenuController.php:13
+#: includes/controllers/admin/menu/HomeTaskMyDashboardMenuController.php:13
+#: includes/controllers/admin/menu/HomeTaskMyDashboardMenuController.php:14
+#: includes/controllers/admin/menu/HomeTaskMyMediaMenuController.php:13
+#: includes/controllers/admin/menu/HomeTaskMyMediaMenuController.php:14
+msgid "HomeTask"
+msgstr ""
+
+#: includes/controllers/admin/menu/HomeTaskMyCommentsMenuController.php:23
+msgid "Hello this page Comments"
+msgstr ""
+
+#: includes/controllers/admin/menu/HomeTaskMyDashboardMenuController.php:24
+msgid "Hello this page dashboards"
+msgstr "Привет это общая страница"
+
+#: includes/controllers/admin/menu/HomeTaskMyMediaMenuController.php:24
+msgid "Hello this page media"
+msgstr "Привет это страница медиа-контента"
+
+#: includes/controllers/admin/menu/HomeTaskMyOptionsMenuController.php:13
+#: includes/controllers/admin/menu/HomeTaskMyOptionsMenuController.php:14
+msgid "Sub options HomeTask"
+msgstr ""
+
+#: includes/controllers/admin/menu/HomeTaskMyOptionsMenuController.php:24
+msgid "Hello this page Settings"
+msgstr "Привет, это страница настроек"
+
+#: includes/controllers/admin/menu/HomeTaskMyPagesMenuController.php:13
+#: includes/controllers/admin/menu/HomeTaskMyPagesMenuController.php:14
+msgid "Sub pages HomeTask"
+msgstr ""
+
+#: includes/controllers/admin/menu/HomeTaskMyPagesMenuController.php:24
+msgid "Hello this page Pages"
+msgstr ""
+
+#: includes/controllers/admin/menu/HomeTaskMyPluginsMenuController.php:14
+#: includes/controllers/admin/menu/HomeTaskMyPluginsMenuController.php:15
+msgid "Sub plugins HomeTask"
+msgstr ""
+
+#: includes/controllers/admin/menu/HomeTaskMyPluginsMenuController.php:25
+msgid "Hello this page Plugins"
+msgstr "Привет, это страница плагинов"
+
+#: includes/controllers/admin/menu/HomeTaskMyPostsMenuController.php:14
+#: includes/controllers/admin/menu/HomeTaskMyPostsMenuController.php:15
+msgid "Sub posts HomeTask"
+msgstr ""
+
+#: includes/controllers/admin/menu/HomeTaskMyPostsMenuController.php:25
+msgid "Hello this page posts"
+msgstr "Привет, это страница постов"
+
+#: includes/controllers/admin/menu/HomeTaskMyThemeMenuController.php:14
+#: includes/controllers/admin/menu/HomeTaskMyThemeMenuController.php:15
+msgid "Sub theme HomeTask"
+msgstr ""
+
+#: includes/controllers/admin/menu/HomeTaskMyThemeMenuController.php:25
+msgid "Hello this page Theme"
+msgstr "Привет, это страница темы"
+
+#: includes/controllers/admin/menu/HomeTaskMyToolsMenuController.php:14
+#: includes/controllers/admin/menu/HomeTaskMyToolsMenuController.php:15
+msgid "Sub tools HomeTask"
+msgstr ""
+
+#: includes/controllers/admin/menu/HomeTaskMyToolsMenuController.php:25
+msgid "Hello this page Tools"
+msgstr "Привет, это страница настроек"
+
+#: includes/controllers/admin/menu/HomeTaskMyUsersMenuController.php:14
+#: includes/controllers/admin/menu/HomeTaskMyUsersMenuController.php:15
+msgid "Sub users HomeTask"
+msgstr ""
+
+#: includes/controllers/admin/menu/HomeTaskMyUsersMenuController.php:25
+msgid "Hello this page Users"
+msgstr "Привет, это страница юзеров"
+
+#: includes/example/HomeTaskExampleAction.php:10
+#: includes/example/HomeTaskExampleAction.php:25
+msgid "Hello"
+msgstr "Привет мир"
